@@ -133,5 +133,5 @@ The full analysis can be found in the  following notebook: [Link]
 
 
 
-Evaluation
-The evaluation will come after presenting data findings to the concerned parties within the company for them to give their input and decide how to best utilize the new information derived from data analysis.
+# Evaluation
+- The evaluation will come after presenting data findings to the concerned parties within the company for them to give their input and decide how to best utilize the new information derived from data analysis.
