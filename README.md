@@ -116,12 +116,12 @@ The full analysis can be found in the  following notebook: [Link]
 
 # Recommendations
 
--Being the most used drugs : chocolate, caffeine and alcohol, we’d recommend for people to be cautious while consuming  products that contain these components to prevent addiction.
--The government should formulate strategies to sensitize people on chocolate and caffeine consumption because most users might be abusing them unconsciously.
+- Being the most used drugs : chocolate, caffeine and alcohol, we’d recommend for people to be cautious while consuming  products that contain these components to prevent addiction.
+- The government should formulate strategies to sensitize people on chocolate and caffeine consumption because most users might be abusing them unconsciously.
 
--It is our observation that specific categories i.e males, doctorate students, people aged 65+ years, that are predisposed to high pressure levels abuse drugs/substance the most thus the states should convene  public–private partnerships to implement drug abuse sensitization campaigns with more focus directed on these categories to discourage drug use.
+- It is our observation that specific categories i.e males, doctorate students, people aged 65+ years, that are predisposed to high pressure levels abuse drugs/substance the most thus the states should convene  public–private partnerships to implement drug abuse sensitization campaigns with more focus directed on these categories to discourage drug use.
 
--Extensive research should be carried out to evaluate the factors that lead to most people aged 65 years and above to consume drugs and solutions found to mitigate the problem.
+- Extensive research should be carried out to evaluate the factors that lead to most people aged 65 years and above to consume drugs and solutions found to mitigate the problem.
 
 - Drug testing can be a constructive means of helping drug abusers overcome denial of their substance abuse. As a part of intervention, drug testing can be used to help the users achieve and maintain recovery
 
