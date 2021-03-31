@@ -1,17 +1,18 @@
+# EVALUATION OF DRUG USAGE
 # Business Understanding
-###Business Overview
+### Business Overview
 Drug/substance abuse has been and is an increasing problem in the world. A number of studies carried out in various countries show that almost every person at one time or another experiments with drugs and substances especially bhang, alcohol or cigarettes. 
 The marked and felt velocity is continually highlighted in the dailies since the major cause of concern is that a significant proportion of people eventually get addicted posing a threat to their own health and safety, while creating difficulties for their families and the public at large.
 While globalization has opened opportunities for individuals and communities to increase wealth and spending, it has also widened access to previously restricted products across national boundaries including illicit drugs. 
 
 
  
-###Business Objective
+### Business Objective
 This project seeks to explore drug/substance abuse in an array of assorted groups of people across different age groups, personalities, education levels and ethnicity. The study was conducted in a number of countries including; Canada, USA, UK, Australia,New Zealand and the Republic of Ireland.
 
 
 
-###Business Success Criteria
+### Business Success Criteria
 Identify the most used drug/substance.
 Assessing the Situation
 Resource Inventory
@@ -23,7 +24,7 @@ The data provided is correct and up to date
 Constraints
 There are no constraints
 
-###Data Mining Goals
+### Data Mining Goals
 Our data mining goals for this project include:
 Analysing the trends of drug abuse among the various age groups, countries, gender, education levels and ethnicity. (Main Objective)
 Determining the age group with the highest rate of drug/substance abuse.
@@ -33,7 +34,7 @@ Determining the most used drug among the gender groups, countries, education lev
  
  
 
-###Data Mining Success Criteria
+### Data Mining Success Criteria
 Our success criteria will be measured by the following criteria;
 Identifying the most used drug/substance and the age group and gender that uses it.
 	
